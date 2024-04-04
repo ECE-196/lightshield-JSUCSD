@@ -5,7 +5,10 @@
 Josue Solano    
 
 ### Added
-finished the light shield, added all the componets and uploaded the picture
+finished the desgin
+    added the schematic picture 
+    added the 3d render 
+    added the pcb render
 ### Changed
 ...
 
